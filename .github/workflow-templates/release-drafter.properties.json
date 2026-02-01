@@ -1,0 +1,9 @@
+{
+  "name": "Release Drafter Workflow",
+  "description": "Automatically drafts release notes based on pull request labels and content",
+  "iconName": "package",
+  "categories": [
+    "automation",
+    "release"
+  ]
+}
